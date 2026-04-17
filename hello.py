@@ -1,1 +1,1 @@
-print("My Cloud Journey Starts Today")
+print("My Cloud Journey has begun")
